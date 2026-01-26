@@ -17,7 +17,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Токен вашего бота
-TOKEN = '8470427152:AAGFuDNNKYcXSJmgM_KgO2hTI1XoAVtB8OI'
+TOKEN = 'тпаово'
 
 # Банк слов и подсказок
 WORD_BANK = {
@@ -203,4 +203,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
