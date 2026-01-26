@@ -12,7 +12,7 @@ from telegram.ext import (
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-TOKEN = '8470427152:AAGFuDNNKYcXSJmgM_KgO2hTI1XoAVtB8OI'
+TOKEN = 'fcfc'
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     keyboard = [
@@ -65,3 +65,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
